@@ -12,6 +12,7 @@ button.addEventListener('click', () =>{
         hexColor += color[random()];
     }
     
+    //check why some properties doesnt work with queries and only id
     navH3.style.color = hexColor;
     navFirst.style.color =hexColor;
     navSecond.style.color = hexColor;
