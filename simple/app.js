@@ -1,4 +1,4 @@
-let colorList = ['Red', 'Magenta', '#B9A73C', 'rgba(120, 39, 12, 0.8)', 'Grey', '#6DB6E3', '#2FC082', 'Orange', 'Gainsboro']
+let colorList = ['Red', 'Magenta', '#B9A73C', 'rgba(120, 39, 12, 0.8)', 'Grey', '#6DB6E3', '#2FC082', 'Orange', 'Gainsboro', '#43D7E1', 'Aqua', 'Yellowgreen', ' #EAF8BF', 'rgb(110, 40, 48)', 'Hotpink'];
 
 let button = document.getElementById('btn');
 let colorCode = document.getElementById('code');
