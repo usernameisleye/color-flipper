@@ -40,6 +40,11 @@ main h2{
     margin-bottom: 1rem;
     border-radius: 1rem;
 }
+main p{
+    font-size: 1rem;
+    font-weight: bold;
+    margin: 1rem 0;
+}
 main button{
     padding: .8rem 1.5rem;
     outline: none;
